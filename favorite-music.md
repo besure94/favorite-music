@@ -1,7 +1,10 @@
-# My Favorite Band
-The Brian Jonestown Massacre (BJM for short) are a band formed in San Francisco, CA in 1990. Their music encompasses a wide variety of genres, including psychedelic rock, shoegaze, garage rock, folk rock, neo-psychedelia, blues rock and country rock.
-## Influences
-The BJM draws on a wide variety of influences. Their first record, Spacegirl and other Favorites, draws influence from shoegaze bands such as:
+# My Favorite Band #
+> The Brian Jonestown Massacre (BJM for short) are a band formed in San Francisco, CA in 1990. Their music encompasses a wide variety of genres, including psychedelic rock, shoegaze, garage rock, folk rock, neo-psychedelia, blues rock and country rock. Anton Newcombe has been the only constant member since the bands founding. The BJM was once notorious for its internal drama between its members, causing many members to leave the band.
+
+![An image of the BJM](img/bjm.jpg)
+
+## Influences #
+The BJM draws on a wide variety of influences. Their first two records, "Methodrone" "Spacegirl and other Favorites", draw influence from shoegaze bands such as:
 * Galaxie 500
 * Spacemen 3
 * My Bloody Valentine
@@ -13,9 +16,10 @@ Their following records draw from bands that were integral to the rock and psych
 * Donovan
 * Bob Dylan
 
-Later BJM records signaled a return to their roots, with many albums encompassing the shoegaze, goth and dream pop genres that had influenced them so heavily.
+Later BJM records signaled a return to their roots, with many of their albums returning to the shoegaze, goth and dream pop sound that had influenced them so heavily.
 
-## Discography
+## Discography ##
+The BJM are known for their prolific discography, and they have released multiple full-length releases in the same year more than once.
 * Methodrone (1995)
 * Spacegirl and Other Favorites (1995)
 * Take It from the Man! (1996)
@@ -37,3 +41,5 @@ Later BJM records signaled a return to their roots, with many albums encompassin
 * The Brian Jonestown Massacre (2019)
 * Fire Doesn't Grow on Trees (2022)
 * The Future Is Your Past (2023)
+
+[Click here](https://youtu.be/lAueqTRSVp4) to explore my personal favorite album by the BJM.
